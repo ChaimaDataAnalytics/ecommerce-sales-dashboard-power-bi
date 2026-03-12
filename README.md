@@ -95,13 +95,13 @@ This structure allows efficient filtering and aggregation across multiple dimens
 ## Dashboard Preview
 
 ### General Dashboard
-![General Dashboard](images/general-dashboard.png)
+![General Dashboard](images/dashboard-general.png)
 
 ### West Region Dashboard
-![West Dashboard](images/west-dashboard.png)
+![West Dashboard](images/dashboard-west.png)
 
 ### Home Page
-![Home Page](images/home-dashboard.png)
+![Home Page](images/dashboard-home.png)
 
 ### Data Model
 ![Data Model](images/data-model.png)
