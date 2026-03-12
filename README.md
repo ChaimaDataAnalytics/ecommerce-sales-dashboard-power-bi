@@ -131,6 +131,17 @@ This dashboard helps answer key business questions such as:
 
 ---
 
+## Project Workflow
+
+The project was developed following these steps:
+
+1. Data cleaning and preparation
+2. Data modeling using a star schema
+3. Creating DAX measures
+4. Designing interactive dashboard pages
+5. Building filters and slicers
+6. Generating business insights
+
 
 
 Chaima Djamel  
